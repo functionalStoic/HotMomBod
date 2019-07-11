@@ -5185,9 +5185,9 @@ react-error-overlay@^1.0.0:
     settle-promise "1.0.0"
     source-map "0.5.6"
 
-react-final-form@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/react-final-form/-/react-final-form-2.1.1.tgz#44b79005ffc6e7abfba36c1c04a2bb3b93424223"
+react-final-form@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/react-final-form/-/react-final-form-2.2.0.tgz#29c63cf944fc4c70c647a85085664dd89dbf2a06"
 
 react-fontawesome@1.6.1:
   version "1.6.1"

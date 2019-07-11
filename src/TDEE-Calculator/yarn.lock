@@ -2577,7 +2577,7 @@ filled-array@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/filled-array/-/filled-array-1.1.0.tgz#c3c4f6c663b923459a9aa29912d2d031f1507f84"
 
-final-form@^3.0.0:
+final-form@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/final-form/-/final-form-3.0.0.tgz#1fa5b017ab6d61f1aca5b976687979cf0424312f"
 
@@ -5069,7 +5069,7 @@ querystringify@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-1.0.0.tgz#6286242112c5b712fa654e526652bf6a13ff05cb"
 
-ramda@^0.25.0:
+ramda@0.25.0:
   version "0.25.0"
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
 
@@ -5181,7 +5181,7 @@ react-error-overlay@^1.0.0:
     settle-promise "1.0.0"
     source-map "0.5.6"
 
-react-final-form@^2.1.1:
+react-final-form@2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/react-final-form/-/react-final-form-2.1.1.tgz#44b79005ffc6e7abfba36c1c04a2bb3b93424223"
 
@@ -5237,7 +5237,7 @@ react-scripts@1.0.0:
   optionalDependencies:
     fsevents "1.0.17"
 
-react-text-mask@^5.0.2:
+react-text-mask@5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/react-text-mask/-/react-text-mask-5.0.2.tgz#09bce3f94ac244c11932082e42328cb455b73aa6"
   dependencies:
@@ -6001,7 +6001,7 @@ style-loader@0.17.0:
   dependencies:
     loader-utils "^1.0.2"
 
-styled-components@^2.4.0:
+styled-components@2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-2.4.0.tgz#086d0fd483d54638837fca3ea546a030b94adf75"
   dependencies:

@@ -5189,9 +5189,9 @@ react-final-form@2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/react-final-form/-/react-final-form-2.1.1.tgz#44b79005ffc6e7abfba36c1c04a2bb3b93424223"
 
-react-fontawesome@1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/react-fontawesome/-/react-fontawesome-1.6.1.tgz#eddce17e7dc731aa09fd4a186688a61793a16c5c"
+react-fontawesome@1.7.1:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/react-fontawesome/-/react-fontawesome-1.7.1.tgz#f74f5a338fef3ee3b379820109c1cba47290f035"
   dependencies:
     prop-types "^15.5.6"
 

@@ -9,7 +9,7 @@
     "react": "16.0.0",
     "react-dom": "16.0.1",
     "react-final-form": "2.1.1",
-    "react-fontawesome": "1.6.1",
+    "react-fontawesome": "1.7.1",
     "react-text-mask": "5.0.2",
     "styled-components": "2.4.0"
   },

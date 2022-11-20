@@ -5241,9 +5241,10 @@ react-scripts@1.0.0:
   optionalDependencies:
     fsevents "1.0.17"
 
-react-text-mask@5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/react-text-mask/-/react-text-mask-5.0.2.tgz#09bce3f94ac244c11932082e42328cb455b73aa6"
+react-text-mask@5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/react-text-mask/-/react-text-mask-5.5.0.tgz#468ea690160b364981205f5633e7475e939383ff"
+  integrity sha512-SLJlJQxa0uonMXsnXRpv5abIepGmHz77ylQcra0GNd7Jtk4Wj2Mtp85uGQHv1avba2uI8ZvRpIEQPpJKsqRGYw==
   dependencies:
     prop-types "^15.5.6"
 
